@@ -1,4 +1,4 @@
-﻿class Cal {
+class Cal {
 public:
 	void getSum(int a, int b) {
 		result = a + b;
@@ -7,7 +7,7 @@ public:
 		result = a - b;
 	}
 private:
-	int result;
+	int result;//한글한글 테스트
 };
 
 int main() {
